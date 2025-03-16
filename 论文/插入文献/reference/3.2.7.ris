@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Ling, Julia
+AU  - Hutchinson, Maxwell
+AU  - Antono, Erin
+AU  - Paradiso, Sean
+AU  - Meredig, Bryce
+PY  - 2017
+DA  - 2017/09/01
+TI  - High-Dimensional Materials and Process Optimization Using Data-Driven Experimental Design with Well-Calibrated Uncertainty Estimates
+JO  - Integrating Materials and Manufacturing Innovation
+SP  - 207
+EP  - 217
+VL  - 6
+IS  - 3
+AB  - The optimization of composition and processing to obtain materials that exhibit desirable characteristics has historically relied on a combination of domain knowledge, trial and error, and luck. We propose a methodology that can accelerate this process by fitting data-driven models to experimental data as it is collected to suggest which experiment should be performed next. This methodology can guide the practitioner to test the most promising candidates earlier and can supplement scientific and engineering intuition with data-driven insights. A key strength of the proposed framework is that it scales to high-dimensional parameter spaces, as are typical in materials discovery applications. Importantly, the data-driven models incorporate uncertainty analysis, so that new experiments are proposed based on a combination of exploring high-uncertainty candidates and exploiting high-performing regions of parameter space. Over four materials science test cases, our methodology led to the optimal candidate being found with three times fewer required measurements than random guessing on average.
+SN  - 2193-9772
+UR  - https://doi.org/10.1007/s40192-017-0098-z
+DO  - 10.1007/s40192-017-0098-z
+ID  - Ling2017
+ER  - 

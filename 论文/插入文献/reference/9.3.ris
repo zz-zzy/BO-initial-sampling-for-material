@@ -1,0 +1,36 @@
+TY  - JOUR
+T1  - Elucidating the Full Potential of OPV Materials Utilizing a High-Throughput Robot-Based Platform and Machine Learning
+AU  - Du, Xiaoyan
+AU  - Lüer, Larry
+AU  - Heumueller, Thomas
+AU  - Wagner, Jerrit
+AU  - Berger, Christian
+AU  - Osterrieder, Tobias
+AU  - Wortmann, Jonas
+AU  - Langner, Stefan
+AU  - Vongsaysy, Uyxing
+AU  - Bertrand, Melanie
+AU  - Li, Ning
+AU  - Stubhan, Tobias
+AU  - Hauch, Jens
+AU  - Brabec, Christoph J.
+JO  - Joule
+VL  - 5
+IS  - 2
+SP  - 495
+EP  - 506
+PY  - 2021
+DA  - 2021/02/17/
+SN  - 2542-4351
+DO  - https://doi.org/10.1016/j.joule.2020.12.013
+UR  - https://www.sciencedirect.com/science/article/pii/S2542435120306127
+KW  - organic photovoltaics
+KW  - processing optimization
+KW  - efficiency
+KW  - photostability
+KW  - high-throughput methods
+KW  - automation
+KW  - machine learning
+AB  - Summary
+Evaluating the potential of organic photovoltaic (OPV) materials and devices for industrial production is a multidimensional optimization process with an incredibly large parameter space. Here, we demonstrate automated OPV material and device characterization in terms of efficiency and photostability. Gaussian process regression (GPR) prediction based on optical absorption features guided the optimization process with promising prediction accuracy for PV parameters and burn-in losses. With ∼100 process conditions, screening for efficiency and photostability can be finished within 70 h. The highest power conversion efficiency (PCE) of 14% was achieved by fully automated device fabrication in air with a model material system PM6:Y6. Improving molecular ordering has been identified as the most promising motif for further efficiency optimization. Thin active layers combined with medium thermal annealing temperature are favorable to simultaneously improve efficiency and suppress burn-in losses. The platform and protocol may be expanded to any solution-processed organic semiconductor and interface materials.
+ER  - 

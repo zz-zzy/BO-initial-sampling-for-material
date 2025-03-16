@@ -1,0 +1,8 @@
+n_loop = 40    # s2_data：60
+maxiter = 30    # s2_data：14
+num_x_init = 3
+
+model_var = 0.1
+num_restarts = 5
+
+batch_size = 2

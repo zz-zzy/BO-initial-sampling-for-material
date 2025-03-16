@@ -1,0 +1,11 @@
+n_loop = 40        #循环求均值次数，也即整个流程重复次数
+maxiter = 30     #模型迭代次数
+
+rdm_sample = 10
+
+# num_x_init = 20
+
+model_var = 0.1
+num_restarts = 5
+bs = 10
+top = 20 

@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Progressive Latin Hypercube Sampling: An efficient approach for robust sampling-based analysis of environmental models
+AU  - Sheikholeslami, Razi
+AU  - Razavi, Saman
+JO  - Environmental Modelling & Software
+VL  - 93
+SP  - 109
+EP  - 126
+PY  - 2017
+DA  - 2017/07/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2017.03.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815216305096
+KW  - Design of computer experiments
+KW  - Sequential sampling
+KW  - Optimal Latin hypercube sampling
+KW  - Monte Carlo simulation
+KW  - Uncertainty analysis
+KW  - Sensitivity analysis
+AB  - Efficient sampling strategies that scale with the size of the problem, computational budget, and users’ needs are essential for various sampling-based analyses, such as sensitivity and uncertainty analysis. In this study, we propose a new strategy, called Progressive Latin Hypercube Sampling (PLHS), which sequentially generates sample points while progressively preserving the distributional properties of interest (Latin hypercube properties, space-filling, etc.), as the sample size grows. Unlike Latin hypercube sampling, PLHS generates a series of smaller sub-sets (slices) such that (1) the first slice is Latin hypercube, (2) the progressive union of slices remains Latin hypercube and achieves maximum stratification in any one-dimensional projection, and as such (3) the entire sample set is Latin hypercube. The performance of PLHS is compared with benchmark sampling strategies across multiple case studies for Monte Carlo simulation, sensitivity and uncertainty analysis. Our results indicate that PLHS leads to improved efficiency, convergence, and robustness of sampling-based analyses.
+ER  - 

@@ -1,0 +1,13 @@
+n_loop = 40
+
+# 建模采点
+num_x_init =3
+maxiter_1 = 20
+# 优化迭代
+maxiter_2 = 30
+
+model_var = 0.1
+num_restarts = 5
+
+bs = 2
+top = 4

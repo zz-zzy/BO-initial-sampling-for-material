@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Rizkin, Benjamin A.
+AU  - Shkolnik, Albert S.
+AU  - Ferraro, Neil J.
+AU  - Hartman, Ryan L.
+PY  - 2020
+DA  - 2020/04/01
+TI  - Combining automated microfluidic experimentation with machine learning for efficient polymerization design
+JO  - Nature Machine Intelligence
+SP  - 200
+EP  - 209
+VL  - 2
+IS  - 4
+AB  - Understanding polymerization reactions has challenges relating to the complexity of the systems, the hazards associated with the reagents, the environmental footprint of the operations and the highly nonlinear topologies of reaction spaces. In this work, we aim to present a new methodology for studying polymerization reactions using machine-learning-assisted automated microchemical reactors. A custom-designed rapidly prototyped microreactor is used in conjunction with automation and in situ infrared thermography for efficient, high-speed experimentation to map the reaction space of a zirconocene polymerization catalyst and obtain fundamental kinetic parameters. Chemical waste is decreased by two orders of magnitude and catalytic discovery is reduced from weeks to hours. Bayesian regularization backpropagation is used in conjunction with kinetic modelling to understand the reaction space and resultant technoeconomic topology. Here, we show that efficient microfluidic technology can be coupled with machine-learning algorithms to obtain high-fidelity datasets on a complex chemical reaction.
+SN  - 2522-5839
+UR  - https://doi.org/10.1038/s42256-020-0166-5
+DO  - 10.1038/s42256-020-0166-5
+ID  - Rizkin2020
+ER  - 

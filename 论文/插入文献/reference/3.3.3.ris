@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Shields, Benjamin J.
+AU  - Stevens, Jason
+AU  - Li, Jun
+AU  - Parasram, Marvin
+AU  - Damani, Farhan
+AU  - Alvarado, Jesus I. Martinez
+AU  - Janey, Jacob M.
+AU  - Adams, Ryan P.
+AU  - Doyle, Abigail G.
+PY  - 2021
+DA  - 2021/02/01
+TI  - Bayesian reaction optimization as a tool for chemical synthesis
+JO  - Nature
+SP  - 89
+EP  - 96
+VL  - 590
+IS  - 7844
+AB  - Reaction optimization is fundamental to synthetic chemistry, from optimizing the yield of industrial processes to selecting conditions for the preparation of medicinal candidates1. Likewise, parameter optimization is omnipresent in artificial intelligence, from tuning virtual personal assistants to training social media and product recommendation systems2. Owing to the high cost associated with carrying out experiments, scientists in both areas set numerous (hyper)parameter values by evaluating only a small subset of the possible configurations. Bayesian optimization, an iterative response surface-based global optimization algorithm, has demonstrated exceptional performance in the tuning of machine learning models3. Bayesian optimization has also been recently applied in chemistry4–9; however, its application and assessment for reaction optimization in synthetic chemistry has not been investigated. Here we report the development of a framework for Bayesian reaction optimization and an open-source software tool that allows chemists to easily integrate state-of-the-art optimization algorithms into their everyday laboratory practices. We collect a large benchmark dataset for a palladium-catalysed direct arylation reaction, perform a systematic study of Bayesian optimization compared to human decision-making in reaction optimization, and apply Bayesian optimization to two real-world optimization efforts (Mitsunobu and deoxyfluorination reactions). Benchmarking is accomplished via an online game that links the decisions made by expert chemists and engineers to real experiments run in the laboratory. Our findings demonstrate that Bayesian optimization outperforms human decisionmaking in both average optimization efficiency (number of experiments) and consistency (variance of outcome against initially available data). Overall, our studies suggest that adopting Bayesian optimization methods into everyday laboratory practices could facilitate more efficient synthesis of functional chemicals by enabling better-informed, data-driven decisions about which experiments to run.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-021-03213-y
+DO  - 10.1038/s41586-021-03213-y
+ID  - Shields2021
+ER  - 

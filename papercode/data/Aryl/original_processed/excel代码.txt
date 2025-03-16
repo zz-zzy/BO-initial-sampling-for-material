@@ -1,0 +1,67 @@
+
+###每隔15行抽取数据
+
+Sub ExtractData()
+    Dim SourceSheet As Worksheet
+    Dim NewSheet As Worksheet
+    Dim LastRow As Long
+    Dim Counter As Long
+    Dim i As Long
+    Dim j As Long
+    
+    Set SourceSheet = ThisWorkbook.Sheets("Scaled_dataset") ' 替换成您的原始工作表名称
+    
+    For j = 1 To 15 ' 创建15个新工作表
+        Set NewSheet = ThisWorkbook.Sheets.Add(After:=SourceSheet)
+        Counter = 1
+        LastRow = SourceSheet.Cells(SourceSheet.Rows.Count, "A").End(xlUp).Row
+        
+        For i = j + 1 To LastRow Step 15 ' 从第 j+1 行开始，每隔15行抽取一行
+            SourceSheet.Rows(i).Copy Destination:=NewSheet.Rows(Counter)
+            Counter = Counter + 1
+        Next i
+        
+        NewSheet.Name = "aryl-" & j ' 设置工作表名称
+    Next j
+End Sub
+
+
+
+###工作表单独保存
+
+
+Sub ExtractDataAndSaveAsCSV()
+    Dim SourceSheet As Worksheet
+    Dim NewSheet As Worksheet
+    Dim LastRow As Long
+    Dim Counter As Long
+    Dim i As Long
+    Dim j As Long
+    
+    Set SourceSheet = ThisWorkbook.Sheets("Scaled_dataset") ' 替换成您的原始工作表名称
+    
+    For j = 1 To 15 ' 创建15个新工作表
+        Set NewSheet = ThisWorkbook.Sheets.Add(After:=SourceSheet)
+        Counter = 1
+        LastRow = SourceSheet.Cells(SourceSheet.Rows.Count, "A").End(xlUp).Row
+        
+        For i = j + 1 To LastRow Step 15 ' 从第 j+1 行开始，每隔15行抽取一行
+            SourceSheet.Rows(i).Copy Destination:=NewSheet.Rows(Counter)
+            Counter = Counter + 1
+        Next i
+        
+        Dim NewSheetName As String
+        NewSheetName = "aryl-" & j ' 设置工作表名称
+        NewSheet.Name = NewSheetName
+        
+        ' 将工作表另存为CSV文件
+        Dim CSVFilePath As String
+        CSVFilePath = ThisWorkbook.Path & "\" & NewSheetName & ".csv"
+        NewSheet.Copy
+        ActiveWorkbook.SaveAs Filename:=CSVFilePath, FileFormat:=xlCSV
+        ActiveWorkbook.Close SaveChanges:=False
+    Next j
+End Sub
+
+
+

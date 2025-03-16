@@ -1,0 +1,38 @@
+
+TY  - JOUR
+T1  - Self-driving laboratory for accelerated discovery of thin-film materials
+AU  - MacLeod, B. P.
+AU  - Parlane, F. G. L.
+AU  - Morrissey, T. D.
+AU  - Häse, F.
+AU  - Roch, L. M.
+AU  - Dettelbach, K. E.
+AU  - Moreira, R.
+AU  - Yunker, L. P. E.
+AU  - Rooney, M. B.
+AU  - Deeth, J. R.
+AU  - Lai, V.
+AU  - Ng, G. J.
+AU  - Situ, H.
+AU  - Zhang, R. H.
+AU  - Elliott, M. S.
+AU  - Haley, T. H.
+AU  - Dvorak, D. J.
+AU  - Aspuru-Guzik, A.
+AU  - Hein, J. E.
+AU  - Berlinguette, C. P.
+N1  - doi: 10.1126/sciadv.aaz8867
+DO  - 10.1126/sciadv.aaz8867
+T2  - Science Advances
+JF  - Science Advances
+JO  - Science Advances
+SP  - eaaz8867
+VL  - 6
+IS  - 20
+PB  - American Association for the Advancement of Science
+M3  - doi: 10.1126/sciadv.aaz8867
+UR  - https://doi.org/10.1126/sciadv.aaz8867
+Y2  - 2024/10/09
+N2  - An autonomous laboratory for thin film discovery is used to optimize the doping and annealing of organic semiconductors. Discovering and optimizing commercially viable materials for clean energy applications typically takes more than a decade. Self-driving laboratories that iteratively design, execute, and learn from materials science experiments in a fully autonomous loop present an opportunity to accelerate this research process. We report here a modular robotic platform driven by a model-based optimization algorithm capable of autonomously optimizing the optical and electronic properties of thin-film materials by modifying the film composition and processing conditions. We demonstrate the power of this platform by using it to maximize the hole mobility of organic hole transport materials commonly used in perovskite solar cells and consumer electronics. This demonstration highlights the possibilities of using autonomous laboratories to discover organic and inorganic materials relevant to materials sciences and clean energy technologies.
+AB  - An autonomous laboratory for thin film discovery is used to optimize the doping and annealing of organic semiconductors. Discovering and optimizing commercially viable materials for clean energy applications typically takes more than a decade. Self-driving laboratories that iteratively design, execute, and learn from materials science experiments in a fully autonomous loop present an opportunity to accelerate this research process. We report here a modular robotic platform driven by a model-based optimization algorithm capable of autonomously optimizing the optical and electronic properties of thin-film materials by modifying the film composition and processing conditions. We demonstrate the power of this platform by using it to maximize the hole mobility of organic hole transport materials commonly used in perovskite solar cells and consumer electronics. This demonstration highlights the possibilities of using autonomous laboratories to discover organic and inorganic materials relevant to materials sciences and clean energy technologies.
+ER  - 

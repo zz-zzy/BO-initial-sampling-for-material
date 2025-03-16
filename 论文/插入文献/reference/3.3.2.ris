@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Granda, Jarosław M.
+AU  - Donina, Liva
+AU  - Dragone, Vincenza
+AU  - Long, De-Liang
+AU  - Cronin, Leroy
+PY  - 2018
+DA  - 2018/07/01
+TI  - Controlling an organic synthesis robot with machine learning to search for new reactivity
+JO  - Nature
+SP  - 377
+EP  - 381
+VL  - 559
+IS  - 7714
+AB  - The discovery of chemical reactions is an inherently unpredictable and time-consuming process1. An attractive alternative is to predict reactivity, although relevant approaches, such as computer-aided reaction design, are still in their infancy2. Reaction prediction based on high-level quantum chemical methods is complex3, even for simple molecules. Although machine learning is powerful for data analysis4,5, its applications in chemistry are still being developed6. Inspired by strategies based on chemists’ intuition7, we propose that a reaction system controlled by a machine learning algorithm may be able to explore the space of chemical reactions quickly, especially if trained by an expert8. Here we present an organic synthesis robot that can perform chemical reactions and analysis faster than they can be performed manually, as well as predict the reactivity of possible reagent combinations after conducting a small number of experiments, thus effectively navigating chemical reaction space. By using machine learning for decision making, enabled by binary encoding of the chemical inputs, the reactions can be assessed in real time using nuclear magnetic resonance and infrared spectroscopy. The machine learning system was able to predict the reactivity of about 1,000 reaction combinations with accuracy greater than 80 per cent after considering the outcomes of slightly over 10 per cent of the dataset. This approach was also used to calculate the reactivity of published datasets. Further, by using real-time data from our robot, these predictions were followed up manually by a chemist, leading to the discovery of four reactions.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-018-0307-8
+DO  - 10.1038/s41586-018-0307-8
+ID  - Granda2018
+ER  - 

@@ -1,0 +1,31 @@
+TY  - JOUR
+AU  - Attia, Peter M.
+AU  - Grover, Aditya
+AU  - Jin, Norman
+AU  - Severson, Kristen A.
+AU  - Markov, Todor M.
+AU  - Liao, Yang-Hung
+AU  - Chen, Michael H.
+AU  - Cheong, Bryan
+AU  - Perkins, Nicholas
+AU  - Yang, Zi
+AU  - Herring, Patrick K.
+AU  - Aykol, Muratahan
+AU  - Harris, Stephen J.
+AU  - Braatz, Richard D.
+AU  - Ermon, Stefano
+AU  - Chueh, William C.
+PY  - 2020
+DA  - 2020/02/01
+TI  - Closed-loop optimization of fast-charging protocols for batteries with machine learning
+JO  - Nature
+SP  - 397
+EP  - 402
+VL  - 578
+IS  - 7795
+AB  - Simultaneously optimizing many design parameters in time-consuming experiments causes bottlenecks in a broad range of scientific and engineering disciplines1,2. One such example is process and control optimization for lithium-ion batteries during materials selection, cell manufacturing and operation. A typical objective is to maximize battery lifetime; however, conducting even a single experiment to evaluate lifetime can take months to years3–5. Furthermore, both large parameter spaces and high sampling variability3,6,7 necessitate a large number of experiments. Hence, the key challenge is to reduce both the number and the duration of the experiments required. Here we develop and demonstrate a machine learning methodology  to efficiently optimize a parameter space specifying the current and voltage profiles of six-step, ten-minute fast-charging protocols for maximizing battery cycle life, which can alleviate range anxiety for electric-vehicle users8,9. We combine two key elements to reduce the optimization cost: an early-prediction model5, which reduces the time per experiment by predicting the final cycle life using data from the first few cycles, and a Bayesian optimization algorithm10,11, which reduces the number of experiments by balancing exploration and exploitation to efficiently probe the parameter space of charging protocols. Using this methodology, we rapidly identify high-cycle-life charging protocols among 224 candidates in 16 days (compared with over 500 days using exhaustive search without early prediction), and subsequently validate the accuracy and efficiency of our optimization approach. Our closed-loop methodology automatically incorporates feedback from past experiments to inform future decisions and can be generalized to other applications in battery design and, more broadly, other scientific domains that involve time-intensive experiments and multi-dimensional design spaces.
+SN  - 1476-4687
+UR  - https://doi.org/10.1038/s41586-020-1994-5
+DO  - 10.1038/s41586-020-1994-5
+ID  - Attia2020
+ER  - 

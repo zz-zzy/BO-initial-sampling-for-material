@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Creep rupture life prediction of high-temperature titanium alloy using cross-material transfer learning
+AU  - Zhou, Changlu
+AU  - Yuan, Ruihao
+AU  - Su, Baolong
+AU  - Fan, Jiangkun
+AU  - Tang, Bin
+AU  - Zhang, Pingxiang
+AU  - Li, Jinshan
+JO  - Journal of Materials Science & Technology
+VL  - 178
+SP  - 39
+EP  - 47
+PY  - 2024
+DA  - 2024/04/10/
+SN  - 1005-0302
+DO  - https://doi.org/10.1016/j.jmst.2023.08.046
+UR  - https://www.sciencedirect.com/science/article/pii/S1005030223008149
+KW  - Machine learning
+KW  - Transfer learning
+KW  - Creep rupture life
+KW  - High-temperature titanium alloy
+AB  - High-temperature titanium alloys are the key materials for the components in aerospace and their service life depends largely on creep deformation-induced failure. However, the prediction of creep rupture life remains a challenge due to the lack of available data with well-characterized target property. Here, we proposed two cross-materials transfer learning (TL) strategies to improve the prediction of creep rupture life of high-temperature titanium alloys. Both strategies effectively utilized the knowledge or information encoded in the large dataset (753 samples) of Fe-base, Ni-base, and Co-base superalloys to enhance the surrogate model for small dataset (88 samples) of high-temperature titanium alloys. The first strategy transferred the parameters of the convolutional neural network while the second strategy fused the two datasets. The performances of the TL models were demonstrated on different test datasets with varying sizes outside the training dataset. Our TL models improved the predictions greatly compared to the models obtained by straightly applying five commonly employed algorithms on high-temperature titanium alloys. This work may stimulate the use of TL-based models to accurately predict the service properties of structural materials where the available data is small and sparse.
+ER  - 

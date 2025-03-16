@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+%0 Journal Article
+%A Ahneman, Derek T.
+%A Estrada, Jesús G.
+%A Lin, Shishi
+%A Dreher, Spencer D.
+%A Doyle, Abigail G.
+%T Predicting reaction performance in C–N cross-coupling using machine learning
+%D 2018
+%J Science
+%P 186-190
+%V 360
+%N 6385
+%R doi:10.1126/science.aar5169
+%U https://www.science.org/doi/abs/10.1126/science.aar5169
+%X Chemists often discover reactions by applying catalysts to a series of simple compounds. Tweaking those reactions to tolerate more structural complexity in pharmaceutical research is time-consuming. Ahneman et al. report that machine learning can help. Using a high-throughput data set, they trained a random forest algorithm to predict which specific palladium catalysts would best tolerate isoxazoles (cyclic structures with an N–O bond) during C–N bond formation. The predictions also helped to guide analysis of the catalyst inhibition mechanism. Science, this issue p. 186 A random forest algorithm trained on high-throughput data predicts which catalysts best tolerate certain heterocycles. Machine learning methods are becoming integral to scientific inquiry in numerous disciplines. We demonstrated that machine learning can be used to predict the performance of a synthetic reaction in multidimensional chemical space using data obtained via high-throughput experimentation. We created scripts to compute and extract atomic, molecular, and vibrational descriptors for the components of a palladium-catalyzed Buchwald-Hartwig cross-coupling of aryl halides with 4-methylaniline in the presence of various potentially inhibitory additives. Using these descriptors as inputs and reaction yield as output, we showed that a random forest algorithm provides significantly improved predictive performance over linear regression analysis. The random forest model was also successfully applied to sparse training sets and out-of-sample prediction, suggesting its value in facilitating adoption of synthetic methodology.
+
+
+
+

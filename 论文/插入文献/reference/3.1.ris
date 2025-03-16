@@ -1,0 +1,30 @@
+TY  - JOUR
+T1  - Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing
+AU  - Liu, Zhe
+AU  - Rolston, Nicholas
+AU  - Flick, Austin C.
+AU  - Colburn, Thomas W.
+AU  - Ren, Zekun
+AU  - Dauskardt, Reinhold H.
+AU  - Buonassisi, Tonio
+JO  - Joule
+VL  - 6
+IS  - 4
+SP  - 834
+EP  - 849
+PY  - 2022
+DA  - 2022/04/20/
+SN  - 2542-4351
+DO  - https://doi.org/10.1016/j.joule.2022.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2542435122001301
+KW  - machine learning
+KW  - perovskite solar cells
+KW  - process optimization
+KW  - manufacturing scale-up
+KW  - Bayesian optimization
+KW  - materials informatics
+KW  - accelerated materials development
+KW  - data-driven modeling
+AB  - Summary
+Developing a scalable manufacturing technique for perovskite solar cells requires process optimization in high-dimensional parameter space. Herein, we present a machine learning (ML)-guided framework of sequential learning for manufacturing the process optimization of perovskite solar cells. We apply our methodology to the rapid spray plasma processing (RSPP) technique for open-air perovskite device fabrication. With a limited experimental budget of screening 100 process conditions, we demonstrated an efficiency improvement to 18.5% as the best result from a device fabricated by RSPP. Our model is enabled by three innovations: flexible knowledge transfer between experimental processes by incorporating data from prior experimental data as a probabilistic constraint, incorporation of both subjective human observations and ML insights when selecting next experiments, and adaptive strategy of locating the region of interest using Bayesian optimization before conducting local exploration for high-efficiency devices. Furthermore, in virtual benchmarking, our framework achieves faster improvements with limited experimental budgets than traditional design-of-experiments methods.
+ER  - 
